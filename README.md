@@ -1,7 +1,7 @@
 # hello-world
 1______
 Hello world ! 
-I'm passionate about programming, I like JS, Python, C, HTML and CSS
+I'm passionate about programming, I like JS, Python, C, HTML, PHP and CSS
 
 
 2______
